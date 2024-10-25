@@ -1,26 +1,40 @@
-# Hi there! 👋 I'm Fedor
+# Привет! 👋 Меня зовут Фёдор
 
-I'm a Python developer with a strong passion for **data analytics**, **computer vision**, and **building neural networks**. I also have some experience working with **Large Language Models (LLMs)**.
+Я разработчик на Python, увлечённый **аналитикой данных**, **компьютерным зрением** и **построением нейронных сетей**. У меня также есть опыт работы с **моделями на основе крупных языков (LLM)**.
 
-## My Interests:
-- 📊 **Data Analytics**: extracting and analyzing data to drive insights and decision-making.
-- 👁️ **Computer Vision**: working with images and videos, developing models for visual tasks.
-- 🧠 **Neural Networks**: researching and building models to solve complex problems.
-- 🤖 **LLMs (Large Language Models)**: exploring and applying large language models for text-based applications.
+## Мои интересы:
+- 📊 **Аналитика данных**: извлечение и анализ данных для получения полезной информации и принятия решений.
+- 👁️ **Компьютерное зрение**: работа с изображениями и видео, разработка моделей для их анализа.
+- 🧠 **Нейронные сети**: исследование и создание моделей для решения сложных задач.
+- 🤖 **LLM (Large Language Models)**: изучение и применение крупных языковых моделей для обработки текста.
 
-## My Tech Stack:
-- **Programming languages**: Python, with some experience in other languages.
-- **Tools and libraries**:
-  - NumPy, Pandas, Matplotlib, Seaborn — for data manipulation and visualization.
-  - OpenCV, Pillow — for image processing.
-  - TensorFlow, Keras, PyTorch — for building and training neural networks.
-  - Hugging Face Transformers — for working with LLMs.
+## Мой стек технологий:
 
-## My Projects:
-Here you'll find the projects I'm working on related to machine learning, data analytics, and computer vision. Feel free to check them out!
+<div>
+
+| Технологии       | Описание                      | Бейдж                                                                                                 |
+| :--------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------- |
+| Python           | Язык программирования         | ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)                          |
+| Hugging Face     | Библиотека для ИИ             | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Library-ff69b4)                    |
+| OpenAI           | Языковые модели               | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)                             |
+| LoRa             | Адаптация малых рангов        | ![LoRa](https://img.shields.io/badge/LoRa-Fine%20Tuning-blue)                                       |
+| Google Colab     | Онлайн Jupyter ноутбуки       | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)                       |
+| PyTorch          | Фреймворк для глубокого обучения | ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)                                |
+| TensorFlow       | Фреймворк машинного обучения  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
+| OpenCV           | Библиотека для компьютерного зрения | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-brightgreen)                        |
+| Pandas           | Библиотека для обработки данных | ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-blueviolet)                       |
+| Веб-скрапинг     | Извлечение данных с веб-сайтов | ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-blue)                 |
+| Развёртывание    | Развёртывание и хостинг моделей | ![Deployment](https://img.shields.io/badge/Deployment-Model%20Deployment%20and%20Hosting-lightblue) |
+| Scikit-learn     | Библиотека машинного обучения | ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-Machine%20Learning-lightgreen)          |
+
+</div>
+
+
+## Мои проекты:
+Здесь представлены мои проекты, связанные с машинным обучением, аналитикой данных и компьютерным зрением. Заходите, будет интересно!
 
 ---
 
-I'm always open to collaboration and interesting challenges! You can reach me at [fbalcugov@gmail.com].
+Всегда открыт для сотрудничества и интересных задач!
 
 
