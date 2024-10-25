@@ -1,26 +1,26 @@
-# Привет! 👋 Меня зовут Фёдор
+# Hi there! 👋 I'm Fedor
 
-Я разработчик с опытом работы в Python, увлекаюсь **аналитикой данных**, **компьютерным зрением** и **построением нейронных сетей**. Кроме того, у меня есть небольшой опыт работы с **моделями большого языка (LLM)**.
+I'm a Python developer with a strong passion for **data analytics**, **computer vision**, and **building neural networks**. I also have some experience working with **Large Language Models (LLMs)**.
 
-## Мои интересы:
-- 📊 **Аналитика данных**: извлечение и анализ данных для принятия решений.
-- 👁️ **Компьютерное зрение**: работа с изображениями и видео, создание моделей для их обработки.
-- 🧠 **Нейронные сети**: исследование и построение моделей для решения различных задач.
-- 🤖 **LLM (Large Language Models)**: изучение и применение крупных языковых моделей для работы с текстом.
+## My Interests:
+- 📊 **Data Analytics**: extracting and analyzing data to drive insights and decision-making.
+- 👁️ **Computer Vision**: working with images and videos, developing models for visual tasks.
+- 🧠 **Neural Networks**: researching and building models to solve complex problems.
+- 🤖 **LLMs (Large Language Models)**: exploring and applying large language models for text-based applications.
 
-## Мой стек технологий:
-- **Языки программирования**: Python, немного опыта с другими языками.
-- **Инструменты и библиотеки**:
-  - NumPy, Pandas, Matplotlib, Seaborn — для работы с данными.
-  - OpenCV, Pillow — для обработки изображений.
-  - TensorFlow, Keras, PyTorch — для создания и обучения нейронных сетей.
-  - Hugging Face Transformers — для работы с LLM.
+## My Tech Stack:
+- **Programming languages**: Python, with some experience in other languages.
+- **Tools and libraries**:
+  - NumPy, Pandas, Matplotlib, Seaborn — for data manipulation and visualization.
+  - OpenCV, Pillow — for image processing.
+  - TensorFlow, Keras, PyTorch — for building and training neural networks.
+  - Hugging Face Transformers — for working with LLMs.
 
-## Мои проекты:
-Здесь я выкладываю проекты, над которыми работаю, в области машинного обучения, аналитики данных и компьютерного зрения. Заходите, смотрите, будет интересно!
+## My Projects:
+Here you'll find the projects I'm working on related to machine learning, data analytics, and computer vision. Feel free to check them out!
 
 ---
 
-Всегда открыт для сотрудничества и интересных задач! Связаться со мной можно [здесь](mailto:your-email@example.com).
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedor102&layout=compact)]
+I'm always open to collaboration and interesting challenges! You can reach me at  [здесь](fbalcugov@gmail.com).
+
 
