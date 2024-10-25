@@ -21,6 +21,6 @@ Here you'll find the projects I'm working on related to machine learning, data a
 
 ---
 
-I'm always open to collaboration and interesting challenges! You can reach me at  [здесь](fbalcugov@gmail.com).
+I'm always open to collaboration and interesting challenges! You can reach me at [fbalcugov@gmail.com].
 
 
